@@ -40,7 +40,7 @@ If you can not register a account,you can use the following account informaction
 
 Mobile:13000000000
 
-Password:111111
+Password:123456
 
 # Screenshots
 
