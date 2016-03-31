@@ -13,6 +13,7 @@ After this, you will install the following packages:
 * md5
 * lodash
 * es6-react-mixins
+* reflux
 
 You can download this app  from http://www.tapy.org/articles/react-native-shop.apk 
 
@@ -25,7 +26,7 @@ This App has run on my android6.0 device, but it has not tested on the other dev
 * User login
 * User register(By Send a SMS verify code, Only available for Chinese mobile number)
 * List products
-* Update user profile(chanage the avatar,nickname and gender)
+* Update user profile(change the avatar,nickname and gender)
 
 I will add some features in next commit.
 
