@@ -38,3 +38,9 @@ If you can not register a account,you can use the following account informaction
 Mobile:13000000000
 
 Password:111111
+
+# Screenshots
+
+ ![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)
+ ![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)
+ ![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)
