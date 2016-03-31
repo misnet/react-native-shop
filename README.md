@@ -42,5 +42,9 @@ Password:111111
 # Screenshots
 
  ![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)
- ![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)
- ![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)![Link home](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-08-05-169x300.jpg)
+ ![Link Register](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-09-35-169x300.jpg)
+ ![Link Ucenter](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-10-17-50-169x300.jpg)
+ ![Link profile](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-10-17-57-169x300.jpg)
+ ![Link change gender](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-11-08-169x300.jpg)
+ ![Link upload](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-10-18-46-169x300.jpg)
+ ![Link nickname](http://www.tapy.org/articles/wp-content/uploads/2016/03/Screenshot_2016-03-31-18-10-59-169x300.jpg)
