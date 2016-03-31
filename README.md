@@ -12,11 +12,11 @@ After this, you will install the following packages:
 * react-native-loading-spinner-overlay
 * md5
 * lodash
-* es6-react-ixins
+* es6-react-mixins
 
 # Important!
 
-This App has run on a android6.0 device, but it has not tested on the other device, include the IOS Devices.
+This App has run on my android6.0 device, but it has not tested on the other device, include the IOS Devices.
 
 # App Features
 
