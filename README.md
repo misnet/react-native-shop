@@ -14,6 +14,8 @@ After this, you will install the following packages:
 * lodash
 * es6-react-mixins
 
+You can download this app  from http://www.tapy.org/articles/react-native-shop.apk 
+
 # Important!
 
 This App has run on my android6.0 device, but it has not tested on the other device, include the IOS Devices.
