@@ -1,6 +1,4 @@
-;!function(window, undefined){
-	//-------------
-	var langsData = {
+const EnglishData = {
 		'注册':'Sign up',
         '登录':'Sign in',
         '会员登录':'Sign in',
@@ -11,13 +9,36 @@
 		'头像':'Avatar',
 		'性别':'Sex',
 		'修改%name%':'Update %name%',
-		'您的网络连接有问题':'Networking is broken'
+		'您的网络连接有问题':'Networking is broken',
+		'请输入正确手机号': 'Please type the right mobile number',
+		'请输入收到的短信验证码': 'Please type your received SMS verify code',
+		'请获取验证码':'Get the verify code first',
+		'首页':'Home',
+		'购物车':'Cart',
+		'我的':'User',
+		'会员中心': 'User Center',
+		'共探索到 %name% 个宝贝': ['%name% item','All %name% items'],
+		'努力加载中...':'Loading',
+		'再按一次退出程序':'Exit app until press once more',
+		'会员注册':'User Register',
+		'收货地址':'Address',
+		'取消':'Cancel',
+		'确定':'OK',
+		'退出登录':'Logout',
+		'您是否确定要退出登录状态?':'Logout right now?',
+		'保存':'Save',
+		'系统错误':'System Error',
+		'男':'Male',
+		'女':'Female',
+		'选择性别':'Select your sex',
+		'只支持PNG、JPG或GIF图片上传':'Only support PNG、JPG or GIF file to upload',
+		'服务响应失败':'Service Failure to response',
+		'完成资料保存':'Profile save successfully',
+		'暂有问题':'Temporary Problem',
+		'服务端无响应':'Server did not response',
+		'服务端返回格式不正确':'The format of response text from service is wrong',
+		'选择照片':'Select a photo',
+		'我的订单':'My orders'
 	};
-	//-------------
 
-	if (typeof define == 'function' && typeof define.amd == 'object' && define.amd) {
-		define(function() {
-	  		return langsData;
-		});
-	}
-}.call(this);
+module.exports = EnglishData;

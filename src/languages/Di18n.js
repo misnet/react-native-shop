@@ -5,9 +5,20 @@
  * @version 0.1
  * @url
  */
-
+import EnUSLang from './data/en_US';
+import ZhCNLang from './data/zh_CN';
 const Di18n = {
 	data:{},
+	setLanguage:function(lang){
+		let langData = ZhCNLang;
+		switch(lang){
+			case 'en_US':
+				langData =  EnUSLang;
+				break;
+			default:
+		}
+		this.setData(langData);
+	},
 	setData:function(langData){
 		this.data = langData;
 	},

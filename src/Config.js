@@ -8,6 +8,7 @@ const EnvConfig = {
     "baseurl":"/",
     "service_qq":"",
     "develop_env":false,
-    "js_version":"v="+Math.random()
+    //zh_CN or en_US
+    "lang":"zh_CN"
 };
 module.exports = EnvConfig;

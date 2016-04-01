@@ -6,7 +6,9 @@ var _navigator;
 import Toast from 'react-native-root-toast';
 import RootView from '../comp/RootView';
 import Di18n from '../languages/Di18n';
-
+import QING_CONFIG from '../Config';
+//Set the language
+Di18n.setLanguage(QING_CONFIG['lang']);
 
 if(Platform.OS === 'android'){
     BackAndroid.addEventListener('hardwareBackPress', (()=> {
