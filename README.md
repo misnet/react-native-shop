@@ -27,6 +27,7 @@ This App has run on my android6.0 device, but it has not tested on the other dev
 * User register(By Send a SMS verify code, Only available for Chinese mobile number)
 * List products
 * Update user profile(change the avatar,nickname and gender)
+* Internationalization(change the language in Config.js, support en_US,zh_CN)
 
 I will add some features in next commit.
 
